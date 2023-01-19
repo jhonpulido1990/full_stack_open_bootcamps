@@ -1,0 +1,7 @@
+ul li:first-child, ol li:first-child {
+    color: red;
+}
+
+ul li:first-child {
+    font-size: 2rem;
+}
